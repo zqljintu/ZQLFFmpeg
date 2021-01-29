@@ -1,0 +1,3 @@
+include ':Medialib'
+include ':app'
+rootProject.name = "ZQLFFmpeg"
